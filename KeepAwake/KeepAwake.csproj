@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net48</TargetFramework>
+        <UseWindowsForms>true</UseWindowsForms>
+        <LangVersion>8</LangVersion>
+        <ApplicationIcon>light.ico</ApplicationIcon>
+    </PropertyGroup>    
+</Project>  
